@@ -1,4 +1,4 @@
-###what is Components and Props and how to Create
+# what is Components and Props and how to Create
 With components we can split our UI into different Parts. A component is a Javascript function if we stop to think about it. They also accept incoming call Props
 
 we can declare a component like this:
