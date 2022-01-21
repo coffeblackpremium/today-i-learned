@@ -2,7 +2,7 @@
 To add an array in javascript later, we can use the function ".push(newIndex)"
 
 Example
-```javascpt
+```javascript
 var newArray = [2,5,6]
 #output = [2,5,6]
 newArray.push(10)
