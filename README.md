@@ -1,4 +1,4 @@
-# My Today i Learned (TIL)
+# My Today i Learned (TIL) :computer:
 
 > This repository has the purpose of showing all my daily learnings with Programming.
 ## Go Straight to the Point :relaxed:
